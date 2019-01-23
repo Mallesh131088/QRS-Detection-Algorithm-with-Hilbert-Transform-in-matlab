@@ -1,1 +1,1 @@
-# QRS-Detection-with-Hilbert-Transform-in-matlab
+# QRS-Detection-Algorithm-with-Hilbert-Transform-in-matlab
